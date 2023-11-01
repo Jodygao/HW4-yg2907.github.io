@@ -1,0 +1,63 @@
+---
+title: "Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+Click [here](index.html) to return to the index page!
+
+# Education
+
+**Columbia University** New York, NY --Expected May 2024
+
+Master of Public Health (MPH), Sociomedical Sciences; Certificate: Applied Biostatistics and Public Health Data Science
+
+**University of Washington - Seattle** Seattle, WA --Received June 2022
+
+Bachelor’s Degree in Public Health Global Health (B.A.); Awards & Honors: Student Honor Certification 
+
+# SKILLSET
+
+Professional Skills: Word, Excel, PowerPoint, Microsoft Office
+
+Certification: Basic Life Support Certification from American Heart Association.
+
+Languages: English, Mandarina; Other: Permanently authorized to work in the USA for any employer.
+
+# PROFESSIONAL EXPERIENCE
+
+**Columbia University School of Nursing** , New York, NY
+Associate Researcher April 2023 – Present
+
+- Conduct literature reviews, design studies, and actively participate in grant writing initiatives.
+
+- Employ R, SAS and Excel to conduct rigorous data analytics on data sets of over 20,000 patients, generating descriptive statistics and creating insightful geographical analysis.
+
+**Sanofi** , Shanghai, China
+Medical Affairs Specialty Care Summer Intern May 2023 - Aug 2023
+
+- Managed and updated project connives to reflect timelines: planning calendars, monthly meeting timeline, and project deliverable.
+
+- Collaborated with Market team on operational aspects of the medical strategy, supported the market access and regulatory approval application of Dupixent for respiratory indications in China
+
+- Act as a translator with Global to ensure alignment on collaboration with Guangzhou Institute of Respiratory Health (GIRH).
+
+- Participated in the writing and editing of the Sanofi China COPD advisory board newsletter, and assisted with the logistics of the Respiratory Independent Newsletter Publication.
+
+**University of Washington** , Seattle, WA
+Qualitative Student Researcher July 2021 – July 2022
+
+- Reviewed previously published works to form a summary of the research topic and conduct literature reviews.
+
+- Wrote interview questions for 68 Kenyan participants and collected for final research result interpretation.
+
+- Summarized project results and prepared materials for academic paper writing.
+
+- Participated in manuscript writing as the co-author for two Kenya HIV Research Publications.
+
+- Attended weekly meetings, discussed findings, and analyzed interview data with Kenya clinical interviewers. 
+
+# PUBLICATIONS
+Co-authored an article entitled "“After viral load testing, I get my results so I get to know which path my life is taking me”: Qualitative insights on routine and point-of-care viral load testing in western Kenya from the Opt4Kids and Opt4Mamas studies" with Rena Patel. (Accepted for publication in BMC Health Services Research)  

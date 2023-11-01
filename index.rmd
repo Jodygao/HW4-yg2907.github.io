@@ -1,0 +1,28 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Welcome to Jody's Website
+
+I had my undergraduate study at the University of Washington and am now studying MPH at Columbia University. 
+
+I like watching Japanese anime and reading love stories. I Just got my kitten yesterday, she looks like this Tabby!
+
+![](https://dinoanimals.com/wp-content/uploads/2016/09/Tabby-cat-3.jpg)
+
+
+# Here is the link to my resume!
+
+[resume](Resume.html)
+
+
+# Here is some analysis plots I've done for NYC Restaurant Inspections.
+
+[plotly](plotly.html)
+
+For my email and Github, please find it on the top right.
